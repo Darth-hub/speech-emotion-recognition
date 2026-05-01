@@ -165,6 +165,21 @@ The 6-point gap between the two columns is the **honesty tax** — and it's exac
 The errors cluster on the arousal-valence plane exactly as the affective-computing literature predicts.
 
 ---
+## App Demo Visuals
+
+
+## Confusion Matrix
+
+<table>
+  <tr>
+    <td><img width="416" height="691" alt="Screenshot 2026-05-01 at 6 06 23 PM" src="https://github.com/user-attachments/assets/fbb7a6cd-bc8e-4ddf-b884-d863952f9cec" /></td>
+    <td> <img width="392" height="686" alt="Screenshot 2026-05-01 at 6 18 35 PM" src="https://github.com/user-attachments/assets/6a877176-c820-4041-ba91-d1c936e0df26" /></td>
+  </tr>
+  <tr>
+    <td align="center">Row-normalized</td>
+    <td align="center">Raw counts</td>
+  </tr>
+</table>
 
 ## Innovations
 
