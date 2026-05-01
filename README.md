@@ -135,6 +135,22 @@ Reference numbers from a single training run on the merged corpus.
 
 The 6-point gap between the two columns is the **honesty tax** — and it's exactly the gap most published SER results hide by using random splits.
 
+### Confusion Matrix
+
+![Confusion Matrix](models/checkpoints/confusion_matrix.png)
+
+### Per-class breakdown (from normalized matrix)
+
+| Emotion | Recall |
+|---|---|
+| neutral | 0.79 (best) |
+| angry | 0.69 |
+| surprise | 0.62 |
+| sad | 0.57 |
+| fear | 0.52 |
+| happy | 0.55 |
+| disgust | 0.46 (hardest) |
+
 ### Confusion analysis (top mistakes)
 
 | True | Predicted | Why it happens |
