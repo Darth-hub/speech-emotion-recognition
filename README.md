@@ -137,9 +137,18 @@ The 6-point gap between the two columns is the **honesty tax** — and it's exac
 
 ### Confusion Matrix
 
-<img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3044d943-a6c5-4df8-90ac-98667cb6bfd2" />
-<img width="600" height="600" alt="confusion_matrix_counts" src="https://github.com/user-attachments/assets/923422fa-5e37-49f8-8133-7090a356a609" />
+## Confusion Matrix
 
+<table>
+  <tr>
+    <td><img width="400" height="400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3044d943-a6c5-4df8-90ac-98667cb6bfd2" /></td>
+    <td><img width="400" height="400" alt="confusion_matrix_counts" src="https://github.com/user-attachments/assets/923422fa-5e37-49f8-8133-7090a356a609" /></td>
+  </tr>
+  <tr>
+    <td align="center">Row-normalized</td>
+    <td align="center">Raw counts</td>
+  </tr>
+</table>
 
 
 ### Per-class breakdown (from normalized matrix)
@@ -167,17 +176,14 @@ The errors cluster on the arousal-valence plane exactly as the affective-computi
 ---
 ## App Demo Visuals
 
-
-## Confusion Matrix
-
 <table>
   <tr>
     <td><img width="416" height="691" alt="Screenshot 2026-05-01 at 6 06 23 PM" src="https://github.com/user-attachments/assets/fbb7a6cd-bc8e-4ddf-b884-d863952f9cec" /></td>
     <td> <img width="392" height="686" alt="Screenshot 2026-05-01 at 6 18 35 PM" src="https://github.com/user-attachments/assets/6a877176-c820-4041-ba91-d1c936e0df26" /></td>
   </tr>
   <tr>
-    <td align="center">Row-normalized</td>
-    <td align="center">Raw counts</td>
+    <td align="center">Result 1</td>
+    <td align="center">Result 2</td>
   </tr>
 </table>
 
