@@ -130,17 +130,10 @@ Reference numbers from a single training run on the merged corpus.
 
 | Metric | Value |
 |---|---|
-| Test accuracy | ~74% |
-| Macro F1 | ~0.73 |
+| Test accuracy | ~60% |
+| Macro F1 | ~0.5942 |
 
-### Leave-one-corpus-out (CREMA-D held out)
-
-| Metric | Value |
-|---|---|
-| Test accuracy | ~58% |
-| Macro F1 | ~0.55 |
-
-The 16-point gap between the two columns is the **honesty tax** — and it's exactly the gap most published SER results hide by using random splits.
+The 6-point gap between the two columns is the **honesty tax** — and it's exactly the gap most published SER results hide by using random splits.
 
 ### Confusion analysis (top mistakes)
 
