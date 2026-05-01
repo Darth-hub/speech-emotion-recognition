@@ -1,4 +1,4 @@
-<img width="1200" height="1050" alt="confusion_matrix_counts" src="https://github.com/user-attachments/assets/43b3dde7-3b68-4bb1-b77f-fbb7519b5352" /># Speech Emotion Recognition (SER)
+# Speech Emotion Recognition (SER)
 
 A production-grade Speech Emotion Recognition system that classifies audio into **7 emotions** (`angry, disgust, fear, happy, neutral, sad, surprise`) using a CNN + BiLSTM + Attention model trained on a merged corpus of **RAVDESS, TESS, SAVEE, and CREMA-D** (~12,000 clips).
 
@@ -137,8 +137,8 @@ The 6-point gap between the two columns is the **honesty tax** — and it's exac
 
 ### Confusion Matrix
 
-<img width="1200" height="1050" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3044d943-a6c5-4df8-90ac-98667cb6bfd2" />
-<img width="1200" height="1050" alt="confusion_matrix_counts" src="https://github.com/user-attachments/assets/923422fa-5e37-49f8-8133-7090a356a609" />
+<img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3044d943-a6c5-4df8-90ac-98667cb6bfd2" />
+<img width="600" height="600" alt="confusion_matrix_counts" src="https://github.com/user-attachments/assets/923422fa-5e37-49f8-8133-7090a356a609" />
 
 
 
