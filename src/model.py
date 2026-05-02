@@ -50,7 +50,7 @@ class SERModel(nn.Module):
     def __init__(
         self,
         n_classes: int = 7,
-        n_freq: int = 116,        # log-Mel(64) + MFCC(40) + chroma(12)
+        n_freq: int = 40,        # log-Mel(64) + MFCC(40) + chroma(12)
         lstm_hidden: int = 128,
         lstm_layers: int = 2,
         dropout: float = 0.3,
